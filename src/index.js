@@ -1,0 +1,3 @@
+window.alert("Minha primeira mensagem");
+window.confirm("Está gostando de javasscript?"); // Janela com o botão Ok e cancel
+window.prompt("Qual é o seu nome?"); // vai perguntar o nome...
